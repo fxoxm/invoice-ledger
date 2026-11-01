@@ -27,7 +27,7 @@
   },
   {
     "name": "@babel/parser",
-    "version": "7.29.11",
+    "version": "7.29.12",
     "license": "MIT",
     "repository": {
       "type": "git",
@@ -35,7 +35,7 @@
       "directory": "packages/babel-parser"
     },
     "files": [
-      "_babel_parser_7.29.11-LICENSE"
+      "_babel_parser_7.29.12-LICENSE"
     ]
   },
   {
@@ -571,7 +571,7 @@
   },
   {
     "name": "@vue/compiler-core",
-    "version": "3.5.22",
+    "version": "3.5.44",
     "license": "MIT",
     "repository": {
       "type": "git",
@@ -579,7 +579,7 @@
       "directory": "packages/compiler-core"
     },
     "files": [
-      "_vue_compiler-core_3.5.22-LICENSE"
+      "_vue_compiler-core_3.5.44-LICENSE"
     ]
   },
   {
@@ -596,7 +596,7 @@
   },
   {
     "name": "@vue/compiler-dom",
-    "version": "3.5.22",
+    "version": "3.5.44",
     "license": "MIT",
     "repository": {
       "type": "git",
@@ -604,12 +604,12 @@
       "directory": "packages/compiler-dom"
     },
     "files": [
-      "_vue_compiler-dom_3.5.22-LICENSE"
+      "_vue_compiler-dom_3.5.44-LICENSE"
     ]
   },
   {
     "name": "@vue/compiler-sfc",
-    "version": "3.5.22",
+    "version": "3.5.44",
     "license": "MIT",
     "repository": {
       "type": "git",
@@ -617,7 +617,7 @@
       "directory": "packages/compiler-sfc"
     },
     "files": [
-      "_vue_compiler-sfc_3.5.22-LICENSE"
+      "_vue_compiler-sfc_3.5.44-LICENSE"
     ]
   },
   {
@@ -634,7 +634,7 @@
   },
   {
     "name": "@vue/compiler-ssr",
-    "version": "3.5.22",
+    "version": "3.5.44",
     "license": "MIT",
     "repository": {
       "type": "git",
@@ -642,7 +642,7 @@
       "directory": "packages/compiler-ssr"
     },
     "files": [
-      "_vue_compiler-ssr_3.5.22-LICENSE"
+      "_vue_compiler-ssr_3.5.44-LICENSE"
     ]
   },
   {
@@ -660,7 +660,7 @@
   },
   {
     "name": "@vue/reactivity",
-    "version": "3.5.22",
+    "version": "3.5.44",
     "license": "MIT",
     "repository": {
       "type": "git",
@@ -668,12 +668,12 @@
       "directory": "packages/reactivity"
     },
     "files": [
-      "_vue_reactivity_3.5.22-LICENSE"
+      "_vue_reactivity_3.5.44-LICENSE"
     ]
   },
   {
     "name": "@vue/runtime-core",
-    "version": "3.5.22",
+    "version": "3.5.44",
     "license": "MIT",
     "repository": {
       "type": "git",
@@ -681,12 +681,12 @@
       "directory": "packages/runtime-core"
     },
     "files": [
-      "_vue_runtime-core_3.5.22-LICENSE"
+      "_vue_runtime-core_3.5.44-LICENSE"
     ]
   },
   {
     "name": "@vue/runtime-dom",
-    "version": "3.5.22",
+    "version": "3.5.44",
     "license": "MIT",
     "repository": {
       "type": "git",
@@ -694,12 +694,12 @@
       "directory": "packages/runtime-dom"
     },
     "files": [
-      "_vue_runtime-dom_3.5.22-LICENSE"
+      "_vue_runtime-dom_3.5.44-LICENSE"
     ]
   },
   {
     "name": "@vue/server-renderer",
-    "version": "3.5.22",
+    "version": "3.5.44",
     "license": "MIT",
     "repository": {
       "type": "git",
@@ -707,12 +707,12 @@
       "directory": "packages/server-renderer"
     },
     "files": [
-      "_vue_server-renderer_3.5.22-LICENSE"
+      "_vue_server-renderer_3.5.44-LICENSE"
     ]
   },
   {
     "name": "@vue/shared",
-    "version": "3.5.22",
+    "version": "3.5.44",
     "license": "MIT",
     "repository": {
       "type": "git",
@@ -720,7 +720,7 @@
       "directory": "packages/shared"
     },
     "files": [
-      "_vue_shared_3.5.22-LICENSE"
+      "_vue_shared_3.5.44-LICENSE"
     ]
   },
   {
@@ -1358,14 +1358,14 @@
   },
   {
     "name": "entities",
-    "version": "4.5.0",
+    "version": "7.0.1",
     "license": "BSD-2-Clause",
     "repository": {
       "type": "git",
-      "url": "git://github.com/fb55/entities.git"
+      "url": "https://github.com/fb55/entities.git"
     },
     "files": [
-      "entities_4.5.0-LICENSE"
+      "entities_7.0.1-LICENSE"
     ]
   },
   {
@@ -1539,11 +1539,11 @@
   },
   {
     "name": "fflate",
-    "version": "0.8.2",
+    "version": "0.8.3",
     "license": "MIT",
     "repository": "https://github.com/101arrowz/fflate",
     "files": [
-      "fflate_0.8.2-LICENSE"
+      "fflate_0.8.3-LICENSE"
     ]
   },
   {
@@ -3512,14 +3512,14 @@
   },
   {
     "name": "vue",
-    "version": "3.5.22",
+    "version": "3.5.44",
     "license": "MIT",
     "repository": {
       "type": "git",
       "url": "git+https://github.com/vuejs/core.git"
     },
     "files": [
-      "vue_3.5.22-LICENSE"
+      "vue_3.5.44-LICENSE"
     ]
   },
   {
